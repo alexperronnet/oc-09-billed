@@ -27,17 +27,17 @@ I usually push projects to the max but to be honest this project was not interes
 ### Clone the repository
 
 ```bash
-git clone https://github.com/alexperronnet/openclassrooms-p9-billed
+git clone https://github.com/alexperronnet/openclassrooms-09-billed
 ```
 
 ### Navigate to the project folder
 
 ```bash
-cd openclassrooms-p7-les-petits-plats/billed-front
+cd openclassrooms-09-billed/billed-front
 ```
 
 ```bash
-cd openclassrooms-p7-les-petits-plats/billed-back
+cd openclassrooms-09-billed/billed-back
 ```
 
 ### Install dependencies
