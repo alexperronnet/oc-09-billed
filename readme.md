@@ -1,5 +1,7 @@
 # Billed
 
+> **Disclaimer**: This repository houses a project undertaken as part of my "**JavaScript React Developer**" training program with [OpenClassrooms](https://openclassrooms.com/). Upon the conclusion of the program on **September 20th, 2023**, the project will no longer be updated or maintained.
+
 ## Overview
 
 The objective of this project was to fix a series of bugs (listed [here](https://github.com/alexperronnet/openclassrooms-p9-billed/issues?q=is%3Aissue+is%3Aclosed)), to improve the test coverage and to realize an End-to-End test case.
